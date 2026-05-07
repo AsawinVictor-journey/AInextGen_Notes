@@ -1,1 +1,0 @@
-# AInextGen_Notes
