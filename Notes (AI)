@@ -8,3 +8,10 @@ AI Model คือ สมการ/function คณิตศาสตร์
 
 Traditional Programming          vs          Machine Learning
 -Model(สมการ)ที่มนุษย์สร้างให้comใช้               -Model comสร้างเอง จากข้อมูลที่comได้รับ และวิเคราะห์เองตามเทคนิคที่มนุษย์เลือกให้
+
+ดูจากค่าY(OUTPUT)ที่ได้
+Supervised data -Regression data -Yเป็นNumerical Data (ตัวเลขที่มีความหมายทางคณิต)
+                -Classification -Yเป็นCategorical Data (ค่าที่มีความหมายเฉพาะ บางที่ตัวเลขก็เป็นเช่น วันที่, 1,0(True,False)
+label-ตัวกำหนดว่าข้อมูลนั้นๆความได้OUTPUTเป็นอะไร
+
+Unsupervised data = no label
